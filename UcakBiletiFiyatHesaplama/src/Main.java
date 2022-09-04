@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         int km, vacationType, age;
         double price, perKm=0.10,discountWay;
-        
+
         Scanner input = new Scanner(System.in);
         System.out.print("Mesafeyi km olarak giriniz : ");
         km = input.nextInt();
