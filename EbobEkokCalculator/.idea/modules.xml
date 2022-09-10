@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ATMproject.iml" filepath="$PROJECT_DIR$/ATMproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EbobEkokCalculator.iml" filepath="$PROJECT_DIR$/EbobEkokCalculator.iml" />
     </modules>
   </component>
 </project>
